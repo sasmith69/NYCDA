@@ -1,0 +1,13 @@
+img{
+float: left;
+display: inline-block;
+width: 350px;
+padding: 15px;
+}
+
+p{
+float: left;
+display: inline-block;
+width: 200px;
+padding:15px;
+}
